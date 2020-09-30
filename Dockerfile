@@ -1,5 +1,5 @@
 # Start with a base image containing Java runtime
-FROM openjdk:8-jdk-alpine
+FROM openjdk:11-jdk-alpine
 
 # Add Maintainer Info
 LABEL maintainer="adsoft@live.com.mx"
@@ -11,7 +11,7 @@ VOLUME /tmp
 EXPOSE 8097
 
 # The application's jar file
-ARG JAR_FILE=target/postgres-demo-0.0.1-SNAPSHOT
+ARG JAR_FILE=target/postgres-demo-0.0.1-SNAPSHOT.jar
 
 # Add the application's jar to the container
 ADD ${JAR_FILE} ng5-api.jar
