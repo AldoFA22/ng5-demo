@@ -1,0 +1,9 @@
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/controller/QuestionController.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/model/AuditModel.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/model/Answer.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/repository/AnswerRepository.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/PostgresDemoApplication.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/controller/AnswerController.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/model/Question.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/exception/ResourceNotFoundException.java
+/home/aldo98/arqSoftware/springLab/postgres-demo/src/main/java/com/example/postgresdemo/repository/QuestionRepository.java
